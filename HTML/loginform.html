@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Login Forum</title>
+</head>
+<meta name="description" content="simple html blog">
+<meta name="keywords" content="blog by hassy">
+
+<body style="background-color: aqua;">
+    <h1 style="text-align: center;">How to make a Html Forms</h1>
+    <!--Forms-->
+    <form action="process.php" method="POST">
+        <!-Post is used foe html page GET if Php used -->
+            <div>
+                <label>First Name</label>
+                <input type="text" name="first-name">
+            </div>
+            <br>
+            <div>
+                <label>Last Name</label>
+                <input type="text" name="last-name">
+            </div>
+            <br>
+            <div>
+                <label>Address </label>
+                <input type="text" name="address">
+                <label> Permanant Address </label>
+                <input type="text" name="address">
+
+            </div>
+            <!--Its a  Container -->
+            <br>
+            <div>
+                <label>Phone</label>
+                <input type="number" name="phone">
+            </div>
+            <br>
+            <div>
+                <label> Email</label>
+                <input type="text" name="email">
+            </div>
+            <br>
+            <div>
+                <label> Message</label>
+                <textarea type="text" name="message"> </textarea>
+            </div>
+            <br>
+            <div>
+                <label> Gender </label>
+                <select name="gender">
+                    <option value="male">Male</option>
+                    <option value="femlae">Female</option>
+                    <option value="other">other</option>
+
+                </select>
+            </div>
+
+            <div>
+                <label>Age</label>
+                <input type="number" name="age" value="80">
+            </div>
+
+            <div>
+                <label> Birthday</label>
+                <input type="date" name="bithday">
+            </div>
+
+    </form>
+    <button>Click Me </button>
+    <button>Submit</button>
+    <button>Just Button</button>
+
+</body>
+
+</html>

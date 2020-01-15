@@ -1,0 +1,65 @@
+<style>body {
+    background-color: wheat;
+}
+
+#black {
+    color: black;
+    margin: rgb(255, 94, 20);
+    border: 2px saddlebrown;
+}
+
+#blue {
+    color: blue;
+    margin: darkgoldenrod;
+    border: 3px darkblue;
+    padding: 50px;
+}
+
+#green {
+    color: green;
+    margin: 3px green;
+}
+
+#red {
+    color: red;
+    margin: 5px rebeccapurple;
+}
+
+h1 {
+    color: rebeccapurple;
+    margin-top: 0pt;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+
+}
+
+p {
+    color: black;
+}
+
+p {
+    border: 1px solid #000000;
+}
+
+p {
+    border: 1px solid rgb(230, 176, 176);
+    padding: 45px;
+}
+
+p {
+    border: 1px solid rgb(180, 230, 176);
+    margin: 70px;
+}
+
+p1.error {
+    color: violet;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+</style>
