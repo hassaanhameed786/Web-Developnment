@@ -1,0 +1,26 @@
+/*
+body {
+    background: url("img_tree.png") no-repeat top right;
+  }
+
+  */
+/* how to use the margin */
+h1 {
+    background-color: lightblue;
+    width: 300px;
+    margin: auto;
+}
+
+/* how to use the border*/
+p {
+    border: 10px solid green;
+}
+
+/* how to use the padding in css 
+ padding property to set the top and bottom paddings for <p> to "25px",
+  and left and right paddings to "50px".
+*/
+p {
+    background-color: lightblue;
+    padding: 25px 50px;
+}

@@ -1,0 +1,3 @@
+Css is alos scripting language not a programming language 
+easy to learn  
+Css can be internal external and  inline wihin a style elements
