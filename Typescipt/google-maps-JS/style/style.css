@@ -58,18 +58,18 @@ body {
 }
 
 .stores-list-container {
-    width: auto;
-    height: auto;
+    width: 330px;
+    /* height: 200px; */
     position: absolute;
     z-index: 100;
-    background: white;
-    left: 140px;
-    top: 320px;
-    border-radius: 10px;
-    bottom: 8px;
-    display: flex;
+    background: wheat;
+    top: 340px;
+    left: 136px;
+    border-radius: 30px;
+    bottom: 20px;
     overflow-y: hidden;
-    padding-bottom: 13px;
+    display: flex;
+    padding-bottom: 30px;
 }
 
 .store-container {
@@ -115,3 +115,9 @@ body {
     border-radius: 50%;
     font-size: 12px;
 }
+
+.stores-list {
+    flex: 1;
+    overflow-y: scroll;
+    padding-left: 20px;
+    padding-right: 20px;
