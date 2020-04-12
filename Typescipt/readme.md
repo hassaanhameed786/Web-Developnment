@@ -1,3 +1,3 @@
 # Practice Stuff 
 
-- learning from brad traversy 
+- learning from brad traversy Crash course
