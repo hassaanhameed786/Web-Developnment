@@ -9,4 +9,7 @@ https://developers.google.com/maps/documentation/javascript/examples
 
 - Snap of Store Locator
 
+# Go to that Link 
+https://storelocator9999.imfast.io/
+
 ![](https://github.com/hassaanhameed786/Web-Developnment/blob/master/Typescipt/google-maps-JS/Screenshot%20from%202020-04-12%2018-43-14.png)
