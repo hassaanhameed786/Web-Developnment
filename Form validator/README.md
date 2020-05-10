@@ -1,4 +1,4 @@
-- Vanilla javascripts 
+- Vanilla javascript
 
 - Simple login form 
 
